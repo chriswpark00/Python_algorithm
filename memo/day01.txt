@@ -1,0 +1,10 @@
+--바로가기 실행 파일 만들기
+** Anaconda 설치시 경로 지정 필수 https://dev-jm.tistory.com/32 참고
+jupyter notebook --notebook-dir=D:\ds2007
+
+-------------------------------------------------------------------------
+라이브러리 Pandas
+.DataFrame
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html?highlight=dataframe#pandas.DataFrame
+
+.Series

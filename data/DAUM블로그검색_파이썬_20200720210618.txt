@@ -1,0 +1,10 @@
+[Python] 파이썬 기본 문법,컴퓨터공학,  통계학,...,http://itisik.tistory.com/32
+Python 파이썬과 아나콘다,만년필잉크의 데이터 ...,http://gooopy.tistory.com/22
+파이썬 알고리즘 인터뷰,책만 출판사 이야기,http://www.onlybook.co.kr/42
+[파이썬 완전정복] 문자열 유형,앤디라이언의  IT스토...,http://andylion.tistory.com/31
+파이썬 (Python) 둘러보기,DATARGET,http://datarget.tistory.com/6
+[파이썬] 아나콘다 설치 하기!,세상에 발자취를 남기...,http://mingtrace.tistory.com/495
+파이썬3 다운로드/설치방법,나의 일본생활 기록 _...,http://flying-tiger.tistory.com/104
+(Python) 0 - 파이썬(Python) 개요,개돌프로그래밍,http://dogrushdev.tistory.com/114
+파이썬(Python) 기본 문법 요약 정리,꿈을 향하여 질주하기,http://sparkdia.tistory.com/60
+온라인파이썬학원 :: 파이썬 기초교육 인터넷 강의,혁신하는 기술 IT정보...,http://itocean.tistory.com/695
